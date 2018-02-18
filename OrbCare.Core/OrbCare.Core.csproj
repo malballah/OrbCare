@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrbCare.Infrastructure\OrbCare.Infrastructure.csproj" />
+    <ProjectReference Include="..\OrbCare.Models\OrbCare.Models.csproj" />
+  </ItemGroup>
+
+</Project>

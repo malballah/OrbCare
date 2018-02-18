@@ -1,0 +1,13 @@
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\bin\Debug\netcoreapp2.0\OrbCare.Core.deps.json
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\bin\Debug\netcoreapp2.0\OrbCare.Core.dll
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\bin\Debug\netcoreapp2.0\OrbCare.Core.pdb
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\obj\Debug\netcoreapp2.0\OrbCare.Core.csprojResolveAssemblyReference.cache
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\obj\Debug\netcoreapp2.0\OrbCare.Core.csproj.CoreCompileInputs.cache
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\obj\Debug\netcoreapp2.0\OrbCare.Core.AssemblyInfoInputs.cache
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\obj\Debug\netcoreapp2.0\OrbCare.Core.AssemblyInfo.cs
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\obj\Debug\netcoreapp2.0\OrbCare.Core.dll
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\obj\Debug\netcoreapp2.0\OrbCare.Core.pdb
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\bin\Debug\netcoreapp2.0\OrbCare.Infrastructure.dll
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\bin\Debug\netcoreapp2.0\OrbCare.Models.dll
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\bin\Debug\netcoreapp2.0\OrbCare.Infrastructure.pdb
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Core\bin\Debug\netcoreapp2.0\OrbCare.Models.pdb

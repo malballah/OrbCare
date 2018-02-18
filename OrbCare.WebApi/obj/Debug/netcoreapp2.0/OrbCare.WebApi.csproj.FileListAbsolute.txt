@@ -1,0 +1,17 @@
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\bin\Debug\netcoreapp2.0\OrbCare.WebApi.deps.json
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\bin\Debug\netcoreapp2.0\OrbCare.WebApi.runtimeconfig.json
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\bin\Debug\netcoreapp2.0\OrbCare.WebApi.runtimeconfig.dev.json
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\bin\Debug\netcoreapp2.0\OrbCare.WebApi.dll
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\bin\Debug\netcoreapp2.0\OrbCare.WebApi.pdb
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\obj\Debug\netcoreapp2.0\OrbCare.WebApi.csprojResolveAssemblyReference.cache
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\obj\Debug\netcoreapp2.0\OrbCare.WebApi.csproj.CoreCompileInputs.cache
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\obj\Debug\netcoreapp2.0\OrbCare.WebApi.AssemblyInfoInputs.cache
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\obj\Debug\netcoreapp2.0\OrbCare.WebApi.AssemblyInfo.cs
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\obj\Debug\netcoreapp2.0\OrbCare.WebApi.dll
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\obj\Debug\netcoreapp2.0\OrbCare.WebApi.pdb
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\bin\Debug\netcoreapp2.0\OrbCare.Core.dll
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\bin\Debug\netcoreapp2.0\OrbCare.Infrastructure.dll
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\bin\Debug\netcoreapp2.0\OrbCare.Models.dll
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\bin\Debug\netcoreapp2.0\OrbCare.Core.pdb
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\bin\Debug\netcoreapp2.0\OrbCare.Infrastructure.pdb
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.WebApi\bin\Debug\netcoreapp2.0\OrbCare.Models.pdb

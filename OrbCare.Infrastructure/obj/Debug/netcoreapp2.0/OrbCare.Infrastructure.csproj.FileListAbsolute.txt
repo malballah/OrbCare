@@ -1,0 +1,8 @@
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Infrastructure\obj\Debug\netcoreapp2.0\OrbCare.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Infrastructure\obj\Debug\netcoreapp2.0\OrbCare.Infrastructure.AssemblyInfoInputs.cache
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Infrastructure\obj\Debug\netcoreapp2.0\OrbCare.Infrastructure.AssemblyInfo.cs
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Infrastructure\bin\Debug\netcoreapp2.0\OrbCare.Infrastructure.deps.json
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Infrastructure\bin\Debug\netcoreapp2.0\OrbCare.Infrastructure.dll
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Infrastructure\bin\Debug\netcoreapp2.0\OrbCare.Infrastructure.pdb
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Infrastructure\obj\Debug\netcoreapp2.0\OrbCare.Infrastructure.dll
+D:\Freelance\OrbCare\Repository\OrbCare\OrbCare.Infrastructure\obj\Debug\netcoreapp2.0\OrbCare.Infrastructure.pdb
